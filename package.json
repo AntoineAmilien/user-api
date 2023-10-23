@@ -1,0 +1,32 @@
+{
+  "name": "user-api",
+  "version": "1.0.0",
+  "description": "Project to illustrate the use of the service/repository pattern with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineAmilien/user-api.git"
+  },
+  "keywords": [
+    "api",
+    "design",
+    "pattern",
+    "express",
+    "nodejs",
+    "javascript",
+    "service",
+    "repository"
+  ],
+  "author": "Antoine AMILIEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoineAmilien/user-api/issues"
+  },
+  "homepage": "https://github.com/AntoineAmilien/user-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
