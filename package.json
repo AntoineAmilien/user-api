@@ -4,6 +4,7 @@
   "description": "Project to illustrate the use of the service/repository pattern with express",
   "main": "index.js",
   "scripts": {
+    "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
