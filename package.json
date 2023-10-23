@@ -2,9 +2,9 @@
   "name": "user-api",
   "version": "1.0.0",
   "description": "Project to illustrate the use of the service/repository pattern with express",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "run": "node index.js",
+    "run": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
